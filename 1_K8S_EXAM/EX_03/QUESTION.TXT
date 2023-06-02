@@ -11,4 +11,4 @@ Create a namespace named apx-x998-yourname
 
 OUTPUT FILES:
 
-1) 
+1) namespace.yaml
