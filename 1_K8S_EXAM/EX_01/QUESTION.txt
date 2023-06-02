@@ -2,8 +2,6 @@ VIDEO TIMESTAMP:
 1) START:   18:58
 2) FINISH:  19:17
 
-1) START:   25:43
-2) FINISH:  25:56
 ORIGINAL TEXT:
 --------------
 
