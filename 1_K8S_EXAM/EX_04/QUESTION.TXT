@@ -14,4 +14,4 @@ Get the list of nodes in JSON format and store it in a file at /tmp/nodes-yourna
 
 OUTPUT FILES:
 
-1) 
+1) get-nodes-json.sh
