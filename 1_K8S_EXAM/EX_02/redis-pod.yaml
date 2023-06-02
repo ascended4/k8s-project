@@ -1,0 +1,14 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: messaging
+  labels:
+    tier: msg
+spec:
+  containers:
+  - name: messaging-container
+    image: redis:alpine
+    resources:
+      limits:
+        memory: "128Mi"
+        cpu: "500m"
