@@ -1,0 +1,17 @@
+VIDEO TIMESTAMP:
+1) START:   37:51
+2) FINISH:  41:19
+
+ORIGINAL TEXT:
+--------------
+
+Create an nginx pod called nginx-resolver using image nginx, expose it internally with a
+service called nginx-resolver-service. Test that you are able to look up the service and
+pod names from within the cluster. Use the image: busybox:1.28 for dns lookup. Record
+results in /root/nginx-yourname.svc and /root/nginx-yourname.pod
+
+--------------
+
+OUTPUT FILES:
+
+1) 

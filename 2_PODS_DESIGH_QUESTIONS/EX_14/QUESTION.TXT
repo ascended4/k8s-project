@@ -1,0 +1,15 @@
+VIDEO TIMESTAMP:
+1) START:   46:42
+2) FINISH:  49:05
+
+ORIGINAL TEXT:
+--------------
+
+Get all the nodes with labels (if using minikube you would get only
+master node)
+
+--------------
+
+OUTPUT FILES:
+
+1) 

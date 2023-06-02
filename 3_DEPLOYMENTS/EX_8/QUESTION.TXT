@@ -1,0 +1,15 @@
+VIDEO TIMESTAMP:
+1) START:   57:40
+2) FINISH:  58:40
+
+ORIGINAL TEXT:
+--------------
+
+Check the rollout history and make sure everything is ok after the
+update
+
+--------------
+
+OUTPUT FILES:
+
+1) 

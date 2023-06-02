@@ -1,0 +1,15 @@
+VIDEO TIMESTAMP:
+1) START:   1:04:33
+2) FINISH:  1:04:46
+
+ORIGINAL TEXT:
+--------------
+
+Create a configmap named keyvalcfgmap and read data from the file
+config.txt and verify that configmap is created correctly
+
+--------------
+
+OUTPUT FILES:
+
+1) 

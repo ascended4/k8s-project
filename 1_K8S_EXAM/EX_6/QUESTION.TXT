@@ -1,0 +1,22 @@
+VIDEO TIMESTAMP:
+1) START:   22:09
+2) FINISH:  23:42
+
+1) START:   25:58
+2) FINISH:  26:53
+
+ORIGINAL TEXT:
+--------------
+
+Create a service messaging-service to expose the messaging application within the
+cluster on port 6379.
+    a. Service: messaging-service
+    b. Port: 6379
+    c. Type: ClusterIp
+    d. Use the right labels
+
+--------------
+
+OUTPUT FILES:
+
+1) 

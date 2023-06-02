@@ -1,0 +1,14 @@
+VIDEO TIMESTAMP:
+1) START:   52:00
+2) FINISH:  52:35
+
+ORIGINAL TEXT:
+--------------
+
+Verify the pod nginx that we just created has this label
+
+--------------
+
+OUTPUT FILES:
+
+1) 

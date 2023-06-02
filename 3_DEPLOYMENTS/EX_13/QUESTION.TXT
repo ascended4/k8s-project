@@ -1,0 +1,14 @@
+VIDEO TIMESTAMP:
+1) START:   1:01:15
+2) FINISH:  1:01:19
+
+ORIGINAL TEXT:
+--------------
+
+Clean the cluster by deleting deployment and hpa you just created
+
+--------------
+
+OUTPUT FILES:
+
+1) 

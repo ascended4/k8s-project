@@ -1,0 +1,14 @@
+VIDEO TIMESTAMP:
+1) START:   1:01:07
+2) FINISH:  1:01:15
+
+ORIGINAL TEXT:
+--------------
+
+<NULL>
+
+--------------
+
+OUTPUT FILES:
+
+1) 

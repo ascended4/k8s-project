@@ -1,0 +1,15 @@
+VIDEO TIMESTAMP:
+1) START:   41:19
+2) FINISH:  41:37
+
+ORIGINAL TEXT:
+--------------
+
+Create a static pod on node01 called nginx-critical with image nginx. Create this pod on
+node01 and make sure that it is recreated/restarted automatically in case of a failure.
+
+--------------
+
+OUTPUT FILES:
+
+1) 

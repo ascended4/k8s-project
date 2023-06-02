@@ -1,0 +1,16 @@
+VIDEO TIMESTAMP:
+1) START:   59:53
+2) FINISH:  1:01:07
+
+ORIGINAL TEXT:
+--------------
+
+Apply the autoscaling to this deployment with minimum 10 and
+maximum 20 replicas and target CPU of 85% and verify hpa is
+created and replicas are increased to 10 from 1
+
+--------------
+
+OUTPUT FILES:
+
+1) 

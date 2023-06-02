@@ -1,0 +1,17 @@
+VIDEO TIMESTAMP:
+1) START:   54:40
+2) FINISH:  54:53
+
+1) START:   55:05
+2) FINISH:  56:55
+
+ORIGINAL TEXT:
+--------------
+
+Get the deployment rollout status
+
+--------------
+
+OUTPUT FILES:
+
+1) 

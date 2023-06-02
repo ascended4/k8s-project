@@ -1,0 +1,14 @@
+VIDEO TIMESTAMP:
+1) START:   19:45
+2) FINISH:  20:09
+
+ORIGINAL TEXT:
+--------------
+
+Create a namespace named apx-x998-yourname
+
+--------------
+
+OUTPUT FILES:
+
+1) 

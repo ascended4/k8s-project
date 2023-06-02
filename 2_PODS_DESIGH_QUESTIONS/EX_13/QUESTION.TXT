@@ -1,0 +1,15 @@
+VIDEO TIMESTAMP:
+1) START:   46:42
+2) FINISH:  46:46
+
+ORIGINAL TEXT:
+--------------
+
+Let’s add the label app=nginx for all the pods and verify (using
+kubectl)
+
+--------------
+
+OUTPUT FILES:
+
+1) 

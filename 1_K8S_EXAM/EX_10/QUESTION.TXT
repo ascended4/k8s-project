@@ -1,0 +1,18 @@
+VIDEO TIMESTAMP:
+1) START:   30:47
+2) FINISH:  32:33
+
+ORIGINAL TEXT:
+--------------
+
+Create a Persistent Volume with the given specification
+    a. Volume Name: pv-analytics
+    b. Storage: 100Mi
+    c. Access modes: ReadWriteMany
+    d. Host Path: /pv/data-analytics
+
+--------------
+
+OUTPUT FILES:
+
+1) 

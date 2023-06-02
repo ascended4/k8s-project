@@ -1,0 +1,17 @@
+VIDEO TIMESTAMP:
+1) START:   27:04
+2) FINISH:  30:23
+
+ORIGINAL TEXT:
+--------------
+
+Create a static pod named static-busybox on the master node that uses the busybox
+image and the command sleep 1000
+    a. Name: static-busybox
+    b. Image: busybox
+
+--------------
+
+OUTPUT FILES:
+
+1) 

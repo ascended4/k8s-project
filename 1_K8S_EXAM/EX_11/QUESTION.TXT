@@ -1,0 +1,18 @@
+VIDEO TIMESTAMP:
+1) START:   32:33
+2) FINISH:  33:37
+
+ORIGINAL TEXT:
+--------------
+
+Create a Pod called redis-storage-yourname with image: redis:alpine with a Volume of
+type emptyDir that lasts for the life of the Pod. specs:.
+    a. Pod named 'redis-storage-yourname'
+    b. Pod 'redis-storage-yourname' uses Volume type of emptyDir
+    c. Pod 'redis-storage-yourname' uses volumeMount with mountPath = /data/redis
+
+--------------
+
+OUTPUT FILES:
+
+1) 

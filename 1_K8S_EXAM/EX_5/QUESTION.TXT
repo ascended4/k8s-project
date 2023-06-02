@@ -1,0 +1,23 @@
+VIDEO TIMESTAMP:
+1) START:   20:38
+2) FINISH:  21:28
+
+1) START:   21:55
+2) FINISH:  22:08
+
+ORIGINAL TEXT:
+--------------
+
+Create a service messaging-service to expose the messaging application within the
+cluster on port 6379.
+    a. Use imperative commands - kubectl
+    b. Service: messaging-service
+    c. Port: 6379
+    d. Type: ClusterIp
+    e. Use the right labels
+
+--------------
+
+OUTPUT FILES:
+
+1) 

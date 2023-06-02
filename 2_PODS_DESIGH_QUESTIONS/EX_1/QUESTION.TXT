@@ -1,0 +1,15 @@
+VIDEO TIMESTAMP:
+1) START:   43:00
+2) FINISH:  43:34
+
+ORIGINAL TEXT:
+--------------
+
+Type the command for:
+Get pods with label information
+
+--------------
+
+OUTPUT FILES:
+
+1) 

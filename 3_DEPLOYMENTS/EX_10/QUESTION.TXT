@@ -1,0 +1,22 @@
+VIDEO TIMESTAMP:
+1) START:   58:40
+2) FINISH:  59:53
+
+ORIGINAL TEXT:
+--------------
+
+Update the deployment with the wrong image version 1.100 and
+verify something is wrong with the deployment
+    a. Expect: kubectl get pods (ImagePullErr)
+    b. Undo the deployment with the previous version and verify
+        everything is Ok
+    c. kubectl rollout history deploy webapp --revision=7
+    d. Check the history of the specific revision of that deployment
+    e. update the deployment with the image version latest and check
+        the history and verify nothing is going on
+
+--------------
+
+OUTPUT FILES:
+
+1) 

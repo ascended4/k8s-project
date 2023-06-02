@@ -1,0 +1,15 @@
+VIDEO TIMESTAMP:
+1) START:   46:35
+2) FINISH:  46:42
+
+ORIGINAL TEXT:
+--------------
+
+Remove the labels for the pods that we created now and verify all the
+labels are removed
+
+--------------
+
+OUTPUT FILES:
+
+1) 

@@ -1,0 +1,15 @@
+VIDEO TIMESTAMP:
+1) START:   50:33
+2) FINISH:  52:01
+
+ORIGINAL TEXT:
+--------------
+
+Verify the pod that it is scheduled with the node selector on the right
+node… fix it if it’s not behind scheduled.
+
+--------------
+
+OUTPUT FILES:
+
+1) 

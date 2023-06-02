@@ -1,0 +1,14 @@
+VIDEO TIMESTAMP:
+1) START:   57:40
+2) FINISH:  58:40
+
+ORIGINAL TEXT:
+--------------
+
+Update the deployment with the image version 1.17.4 and verify
+
+--------------
+
+OUTPUT FILES:
+
+1) 

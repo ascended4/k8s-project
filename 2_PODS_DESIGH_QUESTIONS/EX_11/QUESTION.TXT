@@ -1,0 +1,15 @@
+VIDEO TIMESTAMP:
+1) START:   45:49
+2) FINISH:  46:35
+
+ORIGINAL TEXT:
+--------------
+
+Change the label for one of the pod to env=uat and list all the pods to
+verify
+
+--------------
+
+OUTPUT FILES:
+
+1) 

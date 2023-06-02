@@ -1,0 +1,14 @@
+VIDEO TIMESTAMP:
+1) START:   54:53
+2) FINISH:  55:05
+
+ORIGINAL TEXT:
+--------------
+
+Get the replicaset that created with this deployment
+
+--------------
+
+OUTPUT FILES:
+
+1) 

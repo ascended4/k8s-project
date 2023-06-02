@@ -1,0 +1,17 @@
+VIDEO TIMESTAMP:
+1) START:   30:23
+2) FINISH:  30:47
+
+ORIGINAL TEXT:
+--------------
+
+Create a POD in the finance-yourname namespace named temp-bus with the image
+redis:alpine
+    a. Name: temp-bus
+    b. Image Name: redis:alpine
+
+--------------
+
+OUTPUT FILES:
+
+1) 

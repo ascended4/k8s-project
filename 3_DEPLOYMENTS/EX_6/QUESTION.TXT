@@ -1,0 +1,18 @@
+VIDEO TIMESTAMP:
+1) START:   57:13
+2) FINISH:  57:40
+
+ORIGINAL TEXT:
+--------------
+
+Create a deployment of webapp with image nginx:1.17.1 with
+container port 80 and verify the image version
+    a. kubectl create deploy webapp --image=nginx:1.17.1 --dry-run -o
+        yaml > webapp.yaml
+    b. add the port section (80) and create the de ployment
+
+--------------
+
+OUTPUT FILES:
+
+1) 

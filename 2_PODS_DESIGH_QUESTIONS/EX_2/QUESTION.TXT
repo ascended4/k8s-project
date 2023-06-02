@@ -1,0 +1,15 @@
+VIDEO TIMESTAMP:
+1) START:   43:33
+2) FINISH:  43:43
+
+ORIGINAL TEXT:
+--------------
+
+Create 5 nginx pods in which two of them is labeled env=prod and
+three of them is labeled env=dev
+
+--------------
+
+OUTPUT FILES:
+
+1) 

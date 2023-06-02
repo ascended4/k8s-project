@@ -1,0 +1,14 @@
+VIDEO TIMESTAMP:
+1) START:   46:46
+2) FINISH:  49:05
+
+ORIGINAL TEXT:
+--------------
+
+Label the worker node nodeName=nginxnode
+
+--------------
+
+OUTPUT FILES:
+
+1) 

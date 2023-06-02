@@ -1,0 +1,14 @@
+VIDEO TIMESTAMP:
+1) START:   43:57
+2) FINISH:  45:05
+
+ORIGINAL TEXT:
+--------------
+
+Get the pods with label env=dev and also output the labels
+
+--------------
+
+OUTPUT FILES:
+
+1) 

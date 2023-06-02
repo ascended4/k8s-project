@@ -1,0 +1,18 @@
+VIDEO TIMESTAMP:
+1) START:   26:53
+2) FINISH:  27:03
+
+ORIGINAL TEXT:
+--------------
+
+Create a deployment named hr-web-app using the image kodekloud/webapp-color with
+2 replicas
+    a. Name: hr-web-app
+    b. Image: kodekloud/webapp-color
+    c. Replicas: 2
+
+--------------
+
+OUTPUT FILES:
+
+1) 

@@ -1,0 +1,17 @@
+VIDEO TIMESTAMP:
+1) START:   20:10
+2) FINISH:  20:38
+
+3) START:   21:29
+4) FINISH:  21:55
+
+ORIGINAL TEXT:
+--------------
+
+Get the list of nodes in JSON format and store it in a file at /tmp/nodes-yourname
+
+--------------
+
+OUTPUT FILES:
+
+1) 

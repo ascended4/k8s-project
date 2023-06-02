@@ -1,0 +1,14 @@
+VIDEO TIMESTAMP:
+1) START:   43:43
+2) FINISH:  43:48
+
+ORIGINAL TEXT:
+--------------
+
+Verify all the pods are created with correct labels
+
+--------------
+
+OUTPUT FILES:
+
+1) 

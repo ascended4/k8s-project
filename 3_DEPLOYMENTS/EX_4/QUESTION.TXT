@@ -1,0 +1,14 @@
+VIDEO TIMESTAMP:
+1) START:   56:55
+2) FINISH:  57:09
+
+ORIGINAL TEXT:
+--------------
+
+EXPORT the yaml of the replicaset and pods of this deployment
+
+--------------
+
+OUTPUT FILES:
+
+1) 

@@ -1,0 +1,17 @@
+VIDEO TIMESTAMP:
+1) START:   19:18
+2) FINISH:  19:46
+
+ORIGINAL TEXT:
+--------------
+
+Deploy a messaging pod using the redis:alpine image with the labels set to tier=msg.
+Pod Name: messaging
+Image: redis:alpine
+Labels: tier=msg
+
+--------------
+
+OUTPUT FILES:
+
+1) 

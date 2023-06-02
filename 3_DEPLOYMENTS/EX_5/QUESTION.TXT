@@ -1,0 +1,15 @@
+VIDEO TIMESTAMP:
+1) START:   57:09
+2) FINISH:  57:13
+
+ORIGINAL TEXT:
+--------------
+
+Delete the deployment you just created and watch all the pods are
+also being deleted
+
+--------------
+
+OUTPUT FILES:
+
+1) 

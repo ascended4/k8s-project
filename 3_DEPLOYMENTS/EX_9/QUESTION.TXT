@@ -1,0 +1,15 @@
+VIDEO TIMESTAMP:
+1) START:   57:40
+2) FINISH:  58:40
+
+ORIGINAL TEXT:
+--------------
+
+Undo the deployment to the previous version 1.17.1 and verify Image
+has the previous version
+
+--------------
+
+OUTPUT FILES:
+
+1) 

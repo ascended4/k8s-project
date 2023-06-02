@@ -1,0 +1,21 @@
+VIDEO TIMESTAMP:
+1) START:   41:37
+2) FINISH:  43:00
+
+ORIGINAL TEXT:
+--------------
+
+Create a pod called multi-pod with two containers.
+Container 1, name: alpha, image: nginx
+Container 2: beta, image: busybox, command sleep 4800
+    a. Environment Variables:
+        i. container 1:
+       ii. name: alpha
+      iii. Container 2:
+       iv. name: beta
+
+--------------
+
+OUTPUT FILES:
+
+1) 

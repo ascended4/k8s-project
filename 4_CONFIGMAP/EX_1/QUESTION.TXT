@@ -1,0 +1,24 @@
+VIDEO TIMESTAMP:
+1) START:   1:02:15
+2) FINISH:  1:04:33
+
+ORIGINAL TEXT:
+--------------
+
+Create a file called config.txt with two values key1=value1 and
+key2=value2 and verify the file
+
+### FILE BEGIN ###
+
+cat >> config.txt << EOF
+key1=value1
+key2=value2
+EOF
+cat config.txt
+
+### FILE END ###
+--------------
+
+OUTPUT FILES:
+
+1) 
