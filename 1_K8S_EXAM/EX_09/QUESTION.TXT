@@ -14,4 +14,4 @@ redis:alpine
 
 OUTPUT FILES:
 
-1) 
+1) redis-pod-namespaced.yaml
