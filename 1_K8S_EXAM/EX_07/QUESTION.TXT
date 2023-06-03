@@ -15,4 +15,4 @@ Create a deployment named hr-web-app using the image kodekloud/webapp-color with
 
 OUTPUT FILES:
 
-1) 
+1) deploy-hr-web-app.yaml
