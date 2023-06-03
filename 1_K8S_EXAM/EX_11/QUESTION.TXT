@@ -15,4 +15,4 @@ type emptyDir that lasts for the life of the Pod. specs:.
 
 OUTPUT FILES:
 
-1) 
+1) redis-storage-pod.yaml
