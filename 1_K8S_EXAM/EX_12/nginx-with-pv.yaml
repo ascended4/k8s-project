@@ -1,0 +1,49 @@
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: pv-1
+spec:
+  capacity:
+    storage: 1Gi
+  hostPath:
+    path: /data
+  accessModes:
+    - ReadWriteMany
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: pvc-1
+spec:
+  accessModes:
+    - ReadWriteMany
+  resources:
+    requests:
+      storage: 1Gi
+  storageClassName: ""
+  volumeName: pv-1
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  labels:
+    run: use-pv
+  name: use-pvspec-ascended
+spec:
+  containers:
+  - image: nginx
+    name: use-pv
+    resources:
+      limits:
+        memory: "128Mi"
+        cpu: "500m"
+    volumeMounts:
+    - name: pv-volume
+      mountPath: /data
+  volumes:
+  - name: pv-volume
+    persistentVolumeClaim:
+      claimName: pvc-1
+  dnsPolicy: ClusterFirst
+  restartPolicy: Never
+status: {}
