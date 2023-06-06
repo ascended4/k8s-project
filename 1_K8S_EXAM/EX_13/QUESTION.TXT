@@ -17,4 +17,6 @@ Make sure that the version upgrade is recorded in the resource annotation.
 
 OUTPUT FILES:
 
-1) 
+1) nginx-1.16-deploy.yaml
+2) script.sh
+3) nginx-1.17-deploy.yaml
