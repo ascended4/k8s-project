@@ -12,4 +12,4 @@ node01 and make sure that it is recreated/restarted automatically in case of a f
 
 OUTPUT FILES:
 
-1) 
+1) static-pod-nginx.yaml
