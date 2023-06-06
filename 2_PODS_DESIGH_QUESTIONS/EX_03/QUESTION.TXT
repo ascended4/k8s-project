@@ -11,4 +11,4 @@ Verify all the pods are created with correct labels
 
 OUTPUT FILES:
 
-1) 
+1) script.sh
