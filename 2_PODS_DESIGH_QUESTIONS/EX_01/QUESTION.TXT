@@ -12,4 +12,4 @@ Get pods with label information
 
 OUTPUT FILES:
 
-1) 
+1) script.sh
