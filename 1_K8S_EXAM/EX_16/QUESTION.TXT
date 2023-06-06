@@ -18,4 +18,4 @@ Container 2: beta, image: busybox, command sleep 4800
 
 OUTPUT FILES:
 
-1) 
+1) multi-pod.yaml
