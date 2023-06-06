@@ -1,0 +1,5 @@
+Server:    10.43.0.10
+Address 1: 10.43.0.10 kube-dns.kube-system.svc.cluster.local
+
+Name:      nginx-resolver-service
+Address 1: 10.43.56.11 nginx-resolver-service.default.svc.cluster.local

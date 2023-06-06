@@ -14,4 +14,9 @@ results in /root/nginx-yourname.svc and /root/nginx-yourname.pod
 
 OUTPUT FILES:
 
-1) 
+1) script.sh
+2) nginx-resolver.yaml
+3) nginx-resolver-service.yaml
+4) busybox-pod.yaml
+5) nginx-ascended.svc
+6) nginx-ascended.pod
