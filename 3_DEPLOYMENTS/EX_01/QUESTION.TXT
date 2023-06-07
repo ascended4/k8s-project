@@ -15,4 +15,5 @@ Create a deployment called webapp with image nginx with 5 replicas
 
 OUTPUT FILES:
 
-1) 
+1) script.sh
+2) webapp.yaml
