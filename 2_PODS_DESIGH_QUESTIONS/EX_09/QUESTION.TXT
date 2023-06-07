@@ -11,4 +11,4 @@ Get the pods with labels env=dev and env=prod
 
 OUTPUT FILES:
 
-1) 
+1) script.sh

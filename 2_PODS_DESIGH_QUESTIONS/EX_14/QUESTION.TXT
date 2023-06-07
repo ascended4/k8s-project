@@ -12,4 +12,4 @@ master node)
 
 OUTPUT FILES:
 
-1) 
+1) script.sh

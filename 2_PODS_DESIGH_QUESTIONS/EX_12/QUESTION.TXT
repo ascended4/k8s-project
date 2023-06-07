@@ -12,4 +12,4 @@ labels are removed
 
 OUTPUT FILES:
 
-1) 
+1) script.sh

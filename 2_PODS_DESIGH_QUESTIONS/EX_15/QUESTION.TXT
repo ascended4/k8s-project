@@ -11,4 +11,4 @@ Label the worker node nodeName=nginxnode
 
 OUTPUT FILES:
 
-1) 
+1) script.sh
