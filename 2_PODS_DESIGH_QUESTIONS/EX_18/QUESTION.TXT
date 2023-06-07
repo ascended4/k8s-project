@@ -2,6 +2,8 @@ VIDEO TIMESTAMP:
 1) START:   52:00
 2) FINISH:  52:35
 
+(THIS QUESTION HAS BEEN CANCELED BY LECTURER)
+
 ORIGINAL TEXT:
 --------------
 
@@ -11,4 +13,4 @@ Verify the pod nginx that we just created has this label
 
 OUTPUT FILES:
 
-1) 
+1) script.sh
