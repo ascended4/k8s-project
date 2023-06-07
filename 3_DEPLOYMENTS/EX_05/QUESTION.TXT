@@ -12,4 +12,4 @@ also being deleted
 
 OUTPUT FILES:
 
-1) 
+1) script.sh

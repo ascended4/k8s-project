@@ -11,4 +11,5 @@ EXPORT the yaml of the replicaset and pods of this deployment
 
 OUTPUT FILES:
 
-1) 
+1) script.sh
+2) export.yaml
