@@ -34,4 +34,4 @@ status: {}
 
 OUTPUT FILES:
 
-1) 
+1) hardcoded-nginx-pod.yaml
