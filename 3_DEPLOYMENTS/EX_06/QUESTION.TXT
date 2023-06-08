@@ -9,10 +9,10 @@ Create a deployment of webapp with image nginx:1.17.1 with
 container port 80 and verify the image version
     a. kubectl create deploy webapp --image=nginx:1.17.1 --dry-run -o
         yaml > webapp.yaml
-    b. add the port section (80) and create the de ployment
+    b. add the port section (80) and create the deployment
 
 --------------
 
 OUTPUT FILES:
 
-1) 
+1) script.sh
