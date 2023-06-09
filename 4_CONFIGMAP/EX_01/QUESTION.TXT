@@ -21,4 +21,5 @@ cat config.txt
 
 OUTPUT FILES:
 
-1) 
+1) script.sh
+2) config.txt

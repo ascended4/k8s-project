@@ -16,4 +16,6 @@ nginx-pod.yml
 
 OUTPUT FILES:
 
-1) 
+1) nginx-pod.yaml
+2) script.sh
+3) cli-output.txt

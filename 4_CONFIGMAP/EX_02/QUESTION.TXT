@@ -12,4 +12,5 @@ config.txt and verify that configmap is created correctly
 
 OUTPUT FILES:
 
-1) 
+1) config.txt
+2) script.sh

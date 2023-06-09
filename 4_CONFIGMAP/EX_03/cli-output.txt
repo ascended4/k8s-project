@@ -1,0 +1,6 @@
+root@{SERVER_BLOCKED}:/home/{USER_BLOCKED}/JohnBryce/k8s-project/4_CONFIGMAP/EX_03# ./script.sh
+pod/nginx-pod created
+pod/nginx-pod condition met
+CONFIG_MAP_TEST=key1=value1
+key2=value2
+root@{SERVER_BLOCKED}:/home/{USER_BLOCKED}/JohnBryce/k8s-project/4_CONFIGMAP/EX_03#
