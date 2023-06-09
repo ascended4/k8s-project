@@ -20,7 +20,6 @@ The project is organized into the following parts:
 
 In total, there are 51 questions spread across the different parts of the project.
 
----
 ## Files Structure
 
 Please refer to the respective folders and `QUESTION.txt` files for specific instructions and details related to each question
