@@ -11,4 +11,4 @@ Clean the cluster by deleting deployment and hpa you just created
 
 OUTPUT FILES:
 
-1) 
+1) script.sh
